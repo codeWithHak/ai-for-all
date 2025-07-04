@@ -2,11 +2,28 @@
 
 ## In this lecture we will understand what is:
 
-- AI
-- Models
-- Api
 - Value Of AI
+- AI
+- Machine Learning
+- API
+<br>
+<br>
 
+# AI Value Creation By 2023 
+![AI Value Creation Image](image-1.png)
+
+
+# Artificail Intelligence
+Artificail Intellignce is a *branch* of *Computer Science* concerned development of *methods* that *allow computers to learn withour explicit programming*.
+
+
+# Machine Learning
+Machine Learning is a branch of AI, which focuses on methods that can learn from examples and experience instead of relying on hard coded rules and make predictions on new data.
+
+# Types Of Machine Learning
+
+## 1 - Supervised Learning
+![Supervised Learning](image-2.png)
 
 ## API:
 ![API Example Image](https://miro.medium.com/v2/resize:fit:1400/1*7yAihbfGrMCzjUzIF2UitA.jpeg)
@@ -28,9 +45,3 @@ User < You < Chef
 User > API > Model
 <br>
 **Response**: User < API < Model
-
-# Artificail Intelligence
-Artificail Intellignce is a *branch* of *Computer Science* concerned development of *methods* that *allow computers to learn withour explicit programming*.
-
-# AI Value Creation By 2023 
-![AI Value Creation Image](image-1.png)
