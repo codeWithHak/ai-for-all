@@ -9,6 +9,7 @@
 
 
 ## API:
+![API Example Image](https://miro.medium.com/v2/resize:fit:1400/1*7yAihbfGrMCzjUzIF2UitA.jpeg)
 Imagine you are an **API**
 
 User asked you a question about **food** you don't know anything about **food**, but you know a **chef**.
@@ -27,3 +28,9 @@ User < You < Chef
 User > API > Model
 <br>
 **Response**: User < API < Model
+
+# Artificail Intelligence
+Artificail Intellignce is a *branch* of *Computer Science* concerned development of *methods* that *allow computers to learn withour explicit programming*.
+
+# AI Value Creation By 2023 
+![AI Value Creation Image](image-1.png)
