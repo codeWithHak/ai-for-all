@@ -9,28 +9,26 @@
 <br>
 <br>
 
-# AI Value Creation By 2023 
+## AI Value Creation By 2023 
 ![AI Value Creation Image](image-1.png)
 
 <br>
 
-# Artificail Intelligence
+## Artificail Intelligence
 Artificail Intellignce is a *branch* of *Computer Science* concerned development of *methods* that *allow computers to learn withour explicit programming*.
-
 <br>
 
-
-# Machine Learning
+## Machine Learning
 Machine Learning is a branch of AI, which focuses on methods that can learn from examples and experience instead of relying on hard coded rules and make predictions on new data.
 
-# Types Of Machine Learning
+## Types Of Machine Learning
 
-## 1 - Supervised Learning
+### 1 - Supervised Learning
 ![Supervised Learning](image-2.png)
 
 ### **We will discuss more types in upcoming lectures!**
 <br>
-<br>
+
 
 ## API:
 ![API Example Image](https://miro.medium.com/v2/resize:fit:1400/1*7yAihbfGrMCzjUzIF2UitA.jpeg)
