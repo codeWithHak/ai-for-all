@@ -1,14 +1,13 @@
 # Lecture 2: Introduction with tools
 
-
-## Classification:
+## 1- Classification:
 Classification in machine learning is a supervised learning technique used to categorize data into predefined classes or labels.
 
 It involves training a model on labeled data to predict the class of new, unseen data points. Essentially, the model learns patterns and relationships from the training data to accurately classify new inputs.
  
 ![Classification](image-1.png)
 
-## Key aspects of classification:
+### Key aspects of classification:
 
 **Supervised Learning**: <br>
 Classification falls under supervised learning, meaning it requires a labeled dataset where the correct categories are known during training.
@@ -21,7 +20,7 @@ Unlike regression, which predicts continuous values, classification predicts dis
 
 <br>
 
-## Segmentation 
+## 2- Segmentation 
 
 In machine learning, segmentation refers to the process of dividing a large dataset or an image into smaller, more manageable subsets or regions, called segments, based on specific criteria.
 
@@ -59,3 +58,13 @@ Semantic segmentation, which assigns a class label to each pixel in an image (e.
 Traditional image processing techniques and deep learning-based approaches are used for image segmentation. 
 
 **Two examples are enough for now we will see more examples ahead!**
+
+## 3 - Generative Models
+Generative models are a broad category of ML models that can learn from data and then generate new data samples that look similar to the original data.
+
+![alt text](image-2.png)
+
+## 4 - Diffusion Models
+Diffusion models are a type of generative model that generate data by starting from pure noise and then removing that noise step-by-step to form a realistic output.
+
+![alt text](image-3.png)
