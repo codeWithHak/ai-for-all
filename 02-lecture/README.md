@@ -68,3 +68,16 @@ Generative models are a broad category of ML models that can learn from data and
 Diffusion models are a type of generative model that generate data by starting from pure noise and then removing that noise step-by-step to form a realistic output.
 
 ![alt text](image-3.png)
+
+## 5- Mods
+
+An AI Model generally operates in two mods
+
+- Training Mod
+- Testing Mod
+
+**Training Mod:** <br>
+You will give data as input to model, model will be trained on it.
+You would have an expected output and a actual output.
+Actual output means correct output, the output that model will give you is called expected output.
+You will compare actual output with expected output and give feedback to model and the model will imporve itself on your feedback.
