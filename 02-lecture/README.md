@@ -77,7 +77,10 @@ An AI Model generally operates in two mods
 - Testing Mod
 
 **Training Mod:** <br>
-You will give data as input to model, model will be trained on it.
+You will give data as input and label as output to model, model will be trained on it, e.g. Input:(image) - Output(label).:Cat
 You would have an expected output and a actual output.
 Actual output means correct output, the output that model will give you is called expected output.
-You will compare actual output with expected output and give feedback to model and the model will imporve itself on your feedback.
+Model will compare actual output with expected output and imporve itself. <br>
+
+*Advanced: Model will improve it self by using loss function and back propagation, The model compares, calculates loss (via loss function), and improves itself through backpropagation.*
+
