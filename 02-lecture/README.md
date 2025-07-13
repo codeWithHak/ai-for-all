@@ -69,12 +69,15 @@ Diffusion models are a type of generative model that generate data by starting f
 
 ![alt text](image-3.png)
 
-## 5- Mods
+## 5- Modes
 
-An AI Model generally operates in two mods
+An AI Model generally operates in three Modes / Phases.
 
-- Training Mod
-- Testing Mod
+- Training Mode
+- Validation Mode
+- Inference Mode
+
+![alt text](image-4.png)
 
 **Training Mod:** <br>
 You will give data as input and label as output to model, model will be trained on it, e.g. Input:(image) - Output(label).:Cat
@@ -82,5 +85,33 @@ You would have an expected output and a actual output.
 Actual output means correct output, the output that model will give you is called expected output.
 Model will compare actual output with expected output and imporve itself. <br>
 
-*Advanced: Model will improve it self by using loss function and back propagation, The model compares, calculates loss (via loss function), and improves itself through backpropagation.*
 
+*Advanced: Model will improve it self by using loss function and back propagation, The model compares, calculates loss (via loss function), and improves itself through backpropagation.*
+<br>
+
+**Overfiting:** <br>
+If your model is 99% accurate on training data it is bad, it means model has memorized the training data instead of learning. It's called overfiting   
+
+## 6- Unsupervised Learning:
+
+*A person is known by the company he keeps* 
+
+- Clustring:
+Groups Similar data.
+
+- Anomaly Detection:
+Spots something different
+
+- Dimensinality Reduction
+
+![alt text](image-5.png)
+
+**Clustring Example:** <br>
+ In a box of potatos it can sort similar potatos and could make 3 groups: Small Potatos, Medium Potatos, Large Potatos.
+
+But it does not know they are potaots it just recognizes similarities in data and groups them together.
+
+This algorithm is known as **Clustering**.
+
+**Anomaly Detection:** <br>
+A mechanic sees something differnet in an engine which usually is not found in a bike engine 
