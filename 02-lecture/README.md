@@ -114,4 +114,7 @@ But it does not know they are potaots it just recognizes similarities in data an
 This algorithm is known as **Clustering**.
 
 **Anomaly Detection:** <br>
-A mechanic sees something differnet in an engine which usually is not found in a bike engine. 
+Detects Something Weird e.g: A mechanic sees something differnet in an engine which usually is not found in a bike engine. 
+
+
+## 7- Reinforcement Learning
