@@ -118,3 +118,4 @@ Detects Something Weird e.g: A mechanic sees something differnet in an engine wh
 
 
 ## 7- Reinforcement Learning
+Learn by doing and making mistakes e.g. learning to ride a bicycle.
